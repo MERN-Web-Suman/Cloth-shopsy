@@ -25,9 +25,10 @@ This project is a frontend implementation for an CLOTH-SHOPSY website using Reac
   </div>
 
 
-      # Contributing:
+ # Contributing:
 
-      Contributions to this project are welcome! If you have any suggestions, bug fixes, or additional features to propose, feel free to open an issue or submit a pull request.
+ Contributions to this project are welcome! If you have any suggestions, bug fixes, or additional features to propose, feel free to open an issue or submit a pull request.
+  
     
             
 ## Available Scripts
