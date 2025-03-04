@@ -16,18 +16,7 @@ This project is a frontend implementation for an CLOTH-SHOPSY website using Reac
   </div>
 
 
-    # Technologies Used:
-    
-    <div>
-     <h4> 1. React: JavaScript library for building user interfaces.</h4>
-      <h4> 2.TailwindCSS: Modular CSS approach for styling React components.</h4>
-         <h4>3Bootstrap: It provides pre-designed CSS, JavaScript components, and utility classes to quickly create modern and consistent user interfaces. </h4>
-    </div>
-
-
-    # Contributing:
-
-    Contributions to this project are welcome! If you have any suggestions, bug fixes, or additional features to propose, feel free to open an issue or submit a pull request.
+ 
     
             
 ## Available Scripts
