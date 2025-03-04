@@ -17,30 +17,10 @@ This project is a frontend implementation for an CLOTH-SHOPSY website using Reac
 
 
     # Technologies Used:
-
-        <div>
-    <h4>  👉🏻 Responsive Complete Landing page with popup modal.</h4>
-    <h4> 👉🏻 Responsive Navbar with dropdown menu.</h4>
-    <h4> 👉🏻 Dark and Light mode features.</h4>
-    <h4>👉🏻 Beautiful Animated website (Animate on scroll).</h4>
-    <h4>👉🏻 Fully responsive Hero page( All device supported )</h4>
-    <h4> 👉🏻 Modern responsive product card</h4>
-    <h4>👉🏻 Dark Responsive Footer with background image.</h4>
-  </div>
-      
-
-
-
-
-
-
-    
-
     <div>
-     <h4> ✨ React: JavaScript library for building user interfaces.</h4>
-      <h4> ✨.TailwindCSS: Modular CSS approach for styling React components.</h4>
-         <h4>✨Bootstrap: It provides pre-designed CSS, JavaScript components, and utility classes to quickly create modern and consistent user interfaces. </h4>
-     
+     <h4> 1. React: JavaScript library for building user interfaces.</h4>
+      <h4> 2.TailwindCSS: Modular CSS approach for styling React components.</h4>
+         <h4>3Bootstrap: It provides pre-designed CSS, JavaScript components, and utility classes to quickly create modern and consistent user interfaces. </h4>
     </div>
 
     # Contributing:
