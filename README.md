@@ -1,6 +1,7 @@
 # Welcome to Cloth-shopsy
 
 This project is a frontend implementation for an CLOTH-SHOPSY website using React and Tailwind.CSS with Fully responsive app ( All device supported )
+👉 [Click here to visit the live app](https://cloth-shopsy.vercel.app/)
 
 
 # Features:
