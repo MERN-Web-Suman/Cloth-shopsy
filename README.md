@@ -6,9 +6,9 @@ This project is a frontend implementation for an CLOTH-SHOPSY website using Reac
 
 A stylish e-commerce website built with React.js.
 
-## 🚀 Live Website
+## 🛍️ Live Website
 
-👉 [https://cloth-shopsy.vercel.app](https://cloth-shopsy.vercel.app)
+👉 [Click here to visit the live app](https://cloth-shopsy.vercel.app/)
 
 ## 🛠️ Tech Stack
 
